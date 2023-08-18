@@ -114,7 +114,7 @@ public class Janela2 extends javax.swing.JFrame {
         sucesso=PControl.cadastraPessoa(tfNome.getText(),tfEmail.getText(),tfCpf.getText());
         if(sucesso)
         {
-            JOptionPane.showMessageDialog(null, "Pessoa Criada com sucesso");
+            JOptionPane.showMessageDialog(null, "Pessoa criada com sucesso!!! Parabéns!!!");
         }
         else
         {

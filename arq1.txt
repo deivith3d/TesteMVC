@@ -1,3 +1,6 @@
 teste 1
+<<<<<<< HEAD
 teste 2
 teste 3
+=======
+>>>>>>> parent of df578c6 (commit arq1-2)

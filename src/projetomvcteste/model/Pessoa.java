@@ -5,9 +5,13 @@
  */
 //Este é um teste de git
 //Comentario commit 1
+<<<<<<< HEAD
 //Comentario commit 2
 //Comentario commit 3
 //Comentario commit 4
+=======
+
+>>>>>>> parent of 99fa2b8 (comentario 2)
 package projetomvcteste.model;
 
 import javax.swing.JOptionPane;
